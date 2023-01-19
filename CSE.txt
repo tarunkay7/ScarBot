@@ -1,0 +1,7 @@
+CSE 1
+CSE 2
+CSE 3
+CSE 4
+CSE 5
+CSE 6
+CSE 7

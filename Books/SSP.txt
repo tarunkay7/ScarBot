@@ -1,0 +1,5 @@
+Applied Speech and Audio Processing - Ian McLoughlin
+Anatomy and Physiology for Speech - J.Anthony Seikel
+English Phonetics and Phonology - Peter Roach
+Theory and Application of Digital Speech Processing - Lawrence Rabiner
+

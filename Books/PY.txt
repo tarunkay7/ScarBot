@@ -1,0 +1,4 @@
+Python - Charles Dierbach
+Data Structures and Algorithms in Python - Rance D Naice
+Fundamentals of Python Data Structures - Kenneth A. Lambert
+Introduction to Python  - Daniel Y Liang

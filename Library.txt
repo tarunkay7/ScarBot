@@ -1,0 +1,17 @@
+Linear Algebra
+Artificial Intelligence
+Big Data
+Cloud Computing
+Computer Vision
+Data Structures
+Java
+Knowledge Representation
+Machine Learning
+Mathematical Programming
+Parallel Processing CUDA
+Probability
+Python
+Reinforcement Learning
+Signal Processing
+Speech Signal Processing
+Statistical Signal Processing

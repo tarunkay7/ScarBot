@@ -1,0 +1,2 @@
+Understanding Big Data - Analytics for Enterprise Class Hadoop and Streaming Data by Chris Eaton Dirik deroos tom Deutsch George Lapis
+Big Data Computing by Prof.Rajiv Misra(IIT Patna)

@@ -1,0 +1,9 @@
+Probability Random Variables and Stochastic Processes - Athanasios and Pillai
+Probability Random Variables and Signal Principles - Peyton Z Peebles
+Probability and Random Processes - Henry Stark
+Introduction to Mathematical Statistics - Hogg Craig
+An Introduction to Probability and Statistics - Vijay K. Rohatgi
+A First Course in Probability - Sheldon Ross
+Probability and Statistics - T Veerarajan
+Probability and Statistics For Electrical Engineering - Alberto Leon Garcia
+

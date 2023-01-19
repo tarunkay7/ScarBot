@@ -1,0 +1,2 @@
+Reinforcement Learning An Introduction - Richard S Sutton & Andrew G Barto
+Algorithms for Reinforcement Learning

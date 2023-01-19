@@ -1,0 +1,3 @@
+Signal Porcessing - Prentice-Hall
+Digital Signal Processing - A Anand Kumar
+Discrete Time Signal Processing - Oppenheim

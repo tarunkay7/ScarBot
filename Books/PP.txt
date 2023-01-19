@@ -1,0 +1,1 @@
+Professional Cuda C Programming - John Cheng Max Grossman & Ty McKercher
