@@ -1,5 +1,4 @@
 Linear Algebra
-Artificial Intelligence
 Big Data
 Cloud Computing
 Computer Vision
